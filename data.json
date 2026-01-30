@@ -18,10 +18,11 @@
     "date": "1/30/2026"
   },
   {
-    "title": "I already finished this one",
-    "url": "https://...",
-    "category": "read",
-    "date": "1/20/2026",
+    "title": "
+Docker Compose Tutorial",
+    "url": "https://www.youtube.com/watch?v=HG6yIjZapSA",
+    "category": "watch",
+    "date": "12/29/2025",
     "status": "archived" 
   }
 ]
